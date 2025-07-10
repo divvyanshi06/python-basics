@@ -24,6 +24,12 @@ This repository contains beginner-level Python programs as I learn Python throug
 
 ---
 
-## 🌱 Goal
+
+## ✅ Day 3 – Python Modules & pip
+
+- Learned about built-in vs external modules
+- Installed `requests` module using pip
+- Used `math` and `requests` in code
+- Code file: `day3_modules_and_pip.py`
 
 To build a solid understanding of Python by writing clean, simple programs, uploading them daily, and improving GitHub presence for future tech roles.
