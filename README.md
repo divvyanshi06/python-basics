@@ -1,1 +1,29 @@
-# python-basics
+# Python Basics 🐍
+
+This repository contains beginner-level Python programs as I learn Python through the [CodeWithHarry – Ultimate Python Course](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) on YouTube.
+
+---
+
+## 📅 Progress
+
+| Day | File         | Description                           |
+|-----|--------------|---------------------------------------|
+| 1   | `hello.py`   | First Python file with a simple print |
+| 2   | `day2_code.py` | User input + string output practice   |
+
+---
+
+## 📚 Tools Used
+- Python 3.13 (IDLE)
+- GitHub Web Interface
+
+---
+
+## 🔗 Learning Source
+[CodeWithHarry – The Ultimate Python Course (YouTube)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+
+---
+
+## 🌱 Goal
+
+To build a solid understanding of Python by writing clean, simple programs, uploading them daily, and improving GitHub presence for future tech roles.
