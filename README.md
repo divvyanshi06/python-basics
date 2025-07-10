@@ -1,35 +1,21 @@
-# Python Basics 🐍
+# 100 Days of Python 🐍
 
-This repository contains beginner-level Python programs as I learn Python through the [CodeWithHarry – Ultimate Python Course](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) on YouTube.
-
----
-
-## 📅 Progress
-
-| Day | File         | Description                           |
-|-----|--------------|---------------------------------------|
-| 1   | `hello.py`   | First Python file with a simple print |
-| 2   | `day2_code.py` | User input + string output practice   |
+This repository contains beginner-level Python programs as I learn Python through the [CodeWithHarry – Ultimate Python Course](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 
 ---
 
-## 📚 Tools Used
-- Python 3.13 (IDLE)
-- GitHub Web Interface
+## 📅 Progress Summary
+
+| Day | Topic                            | File Name                    | Summary                                               |
+|-----|----------------------------------|------------------------------|-------------------------------------------------------|
+| ✅ Day 1 | Print Statement & Variables     | `day1_hello.py`              | Wrote first Python program, print(), variable use     |
+| ✅ Day 2 | Input and Strings              | `day2_input_string.py`       | Used input(), string formatting, and basic string ops |
+| ✅ Day 3 | Modules & pip                  | `day3_modules_and_pip.py`    | Installed modules with pip, used `math`, `requests`   |
 
 ---
 
-## 🔗 Learning Source
-[CodeWithHarry – The Ultimate Python Course (YouTube)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+## 🧠 Notes
 
----
-
-
-## ✅ Day 3 – Python Modules & pip
-
-- Learned about built-in vs external modules
-- Installed `requests` module using pip
-- Used `math` and `requests` in code
-- Code file: `day3_modules_and_pip.py`
-
-To build a solid understanding of Python by writing clean, simple programs, uploading them daily, and improving GitHub presence for future tech roles.
+- This is part of the **100 Days of Python Challenge**
+- I'm building discipline, habits, and a solid base in Python
+- Follow my progress on [GitHub.com/divvyanshi06](https://github.com/divvyanshi06) 💻
